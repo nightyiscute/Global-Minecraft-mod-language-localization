@@ -2,7 +2,7 @@ blackbox.options.blackbox=Blackbox 选项
 
 blackbox.options.category.details=详细信息
 
-blackbox.details.leaves=Leaves
+blackbox.details.leaves=葉子
 blackbox.details.leaves.tooltip=Leaves Module
 blackbox.details.leaves.leaves_mode=Leaves Rendering Mode (Override)
 blackbox.details.leaves.leaves_mode.tooltip=Select the rendering level of detail of most if not all leaves. This overrides natural and placed options below.
