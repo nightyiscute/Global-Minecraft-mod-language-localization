@@ -1,6 +1,6 @@
-blackbox.options.blackbox=Blackbox Options
+blackbox.options.blackbox=Blackbox 选项
 
-blackbox.options.category.details=Details
+blackbox.options.category.details=详细信息
 
 blackbox.details.leaves=Leaves
 blackbox.details.leaves.tooltip=Leaves Module
@@ -11,7 +11,7 @@ blackbox.details.leaves.natural_leaves_mode.tooltip=Select the rendering level o
 blackbox.details.leaves.placed_eaves_mode=Placed Leaves Rendering Mode
 blackbox.details.leaves.placed_eaves_mode.tooltip=Select the rendering level of detail of most if not all placed leaves
 
-blackbox.options.category.fixes=Fixes
+blackbox.options.category.fixes=修复
 
 blackbox.fixes.falling_block=Falling Block
 blackbox.fixes.falling_block.tooltip=Falling Block Module
@@ -47,7 +47,7 @@ blackbox.misc.tab_overlay.tooltip=Tab Overlay Module
 blackbox.misc.tab_overlay.show_numerical_ping=Show Numerical Ping
 blackbox.misc.tab_overlay.show_numerical_ping.tooltip=Shows ping as numbers (milliseconds) instead of bars
 
-blackbox.options.category.optimizations=Optimizations
+blackbox.options.category.optimizations=优化
 
 blackbox.optimizations.had_enough_signs=Had Enough Signs
 blackbox.optimizations.had_enough_signs.tooltip=Had Enough Signs Module
